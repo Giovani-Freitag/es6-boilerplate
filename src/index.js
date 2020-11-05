@@ -1,6 +1,3 @@
-import Test from './teste/test';
-
-
-let t = () => 'teste';
+import Test from './Test/Test';
 
 new Test();

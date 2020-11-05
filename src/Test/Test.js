@@ -1,7 +1,7 @@
 export default class Test{
 
     constructor(){
-        console.log('teste7');
+        console.log('Message from imported module');
     }
 
 };
